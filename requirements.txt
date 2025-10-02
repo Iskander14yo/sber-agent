@@ -1,0 +1,12 @@
+google-genai
+feedparser
+tiktoken
+trafilatura
+justext
+beautifulsoup4
+selenium
+streamlit
+streamlit-autorefresh
+pandas
+plotly
+watchdog
